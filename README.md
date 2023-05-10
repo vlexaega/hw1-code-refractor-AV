@@ -13,6 +13,9 @@ N/A
 The repo can be cloned via the following git link:
 https://github.com/vlexaega/hw1-code-refractor-AV.git
 
+The repo can be cloned via the following git command:
+gh repo clone vlexaega/hw1-code-refractor-AV
+
 It can also be accessed via the below hyperlink:
 https://vlexaega.github.io/hw1-code-refractor-AV/
 
