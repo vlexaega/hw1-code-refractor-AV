@@ -8,13 +8,13 @@ The purpose of this repo is to refractor the code of the company Horiseon.  As a
 
 This repo is publicly accessible.  Installation can be achieved by the following processes:
 
-The repo can be cloned via the following git link:
+* The repo can be cloned via the following git link:
 https://github.com/vlexaega/hw1-code-refractor-AV.git
 
-The repo can be cloned via the following git command:
+* The repo can be cloned via the following git command:
 gh repo clone vlexaega/hw1-code-refractor-AV
 
-It can also be accessed via the below hyperlink:
+* It can also be accessed via the below hyperlink:
 https://vlexaega.github.io/hw1-code-refractor-AV/
 
 
@@ -24,10 +24,9 @@ The webpage will utilized by Horiseon to reflect their service offerings on the 
 
 ## Credits
 
-COLUMBIA UNIVERSITY 
-w3 schools articles:
-https://www.w3schools.com/html/html5_semantic_elements.asp
-https://www.w3schools.com/html/html5_semantic_elements.asp
+* COLUMBIA UNIVERSITY 
+* w3 schools articles:
+* https://www.w3schools.com/html/html5_semantic_elements.asp
 
 ## License
 
