@@ -1,14 +1,12 @@
-# Refactoring Existing Website - Semantic HTML + Accessibility
+# Refractoring Existing Website - Horiseon Marketing Agency - Semantic HTML + Accessibility
 
 ## Description
 
-The purpose of this repo is to refactor the initial code provided to be more easily readable. In addition, adding accessibility aspects to the website with the goal to enhance SEO and the accessibility of the website. Through this refactoring project, skills in semantic html were applied to simplify the code and also connect the existing css file to the enhanced code.  Scout rule was also adhered to to enhance and simplify the code, without removing any aspects. 
-
-## Table of Contents (Optional)
-
-N/A
+The purpose of this repo is to refractor the code of the company Horiseon.  As a marketing company, they desired a code that followed accessibility standards so that their site was optimized for seach engines. In order to achieve this, the code was reviewed and existing elements in the code were adjusted to follow the semantic structure of the HTML elements.  The CSS style sheet was also optimized to follow the semantic structure of the HTML elements.
 
 ## Installation
+
+This repo is publicly accessible.  Installation can be achieved by the following processes:
 
 The repo can be cloned via the following git link:
 https://github.com/vlexaega/hw1-code-refractor-AV.git
@@ -22,7 +20,7 @@ https://vlexaega.github.io/hw1-code-refractor-AV/
 
 ## Usage
 
-N/A
+The webpage will utilized by Horiseon to reflect their service offerings on the web.  
 
 ## Credits
 
