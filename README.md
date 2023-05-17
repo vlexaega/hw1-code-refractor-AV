@@ -22,6 +22,10 @@ https://vlexaega.github.io/hw1-code-refractor-AV/
 
 The webpage will utilized by Horiseon to reflect their service offerings on the web.  
 
+## Screenshot
+
+/Users/alexandervega/Homeworks/hw1-code-refractor-AV/assets/images/hw screenshot for readme.jpg
+
 ## Credits
 
 * COLUMBIA UNIVERSITY 
